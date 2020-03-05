@@ -1,2 +1,3 @@
 # my_project
-management system design 
+management system design
+three day of work
